@@ -3,6 +3,8 @@
 
 $\color{rgb(154, 205, 50)}{\textsf{━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━}}$
 
+Перехід на сторінку: <a href="https://essencemaks.github.io/goit-js-hw-05/" target="_blank">https://essencemaks.github.io/goit-js-hw-05/</a>
+
 # **Задача 1. Імена користувачів**
 
 Розв'язок задачі: [task-1.js](./js/task-1.js)
